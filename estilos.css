@@ -9,10 +9,13 @@ h1,h2,h3,h4,h5,h6{
 h2{
     color:red}
     h1{
-        color: red;
+        color:red;
     }
     img{
         display: block;
         width: 30%;
         margin: auto;
+    }
+    #parrafo-esp { 
+        font-size: 1.5em;
     }
